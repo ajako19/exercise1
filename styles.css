@@ -1,0 +1,68 @@
+body {
+    background-color: lightcoral;
+    margin: 0;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.mainpart {
+    background-color: rgb(237, 237, 237);
+    margin: 130px auto;
+    width: 650px;
+    height: 380px;
+}
+
+h1 {
+    padding-top: 50px;
+    font-size: 20px;
+    margin-bottom: 22px;
+    color: rgb(107, 107, 107);
+    font-size: 18px;
+}
+
+#username {
+    border: 1px solid rgb(218, 218, 218);
+    width: 400px;
+    margin: 0 auto;
+    padding: 15px;
+    text-align: left;
+    color: rgb(218, 218, 218);
+    background-color: rgb(255, 255, 255);
+    font-size: 15px;
+}
+
+#password {
+    border: 1px solid rgb(218, 218, 218);
+    width: 400px;
+    margin: 20px auto;
+    padding: 15px;
+    text-align: left;
+    color: rgb(218, 218, 218);
+    background-color: rgb(255, 255, 255);
+    font-size: 15px;
+}
+
+#login {
+    margin: 0 auto;
+    width: 100px;
+    background-color: rgb(122, 218, 211);
+    color: white;
+    border: 0px;
+    padding: 10px;
+    border: 1px solid rgb(218, 218, 218);
+    display: block;
+
+}
+
+#checkboxtext {
+    margin-right: 310px;
+}
+
+#checkbox {
+    margin-top: 35px;
+}
+
+span {
+    color: rgb(218, 218, 218);
+
+}
